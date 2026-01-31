@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "wav_file": "0.wav",
+        "en_digit": 0,
+        "or_text": "ଶୂନ",
+        "hi_text": "शून्य",
+        "mapping_id": "num_00"
+    },
+    {
+        "id": 1,
+        "wav_file": "1.wav",
+        "en_digit": 1,
+        "or_text": "ଏକ",
+        "hi_text": "एक",
+        "mapping_id": "num_01"
+    },
+    {
+        "id": 2,
+        "wav_file": "2.wav",
+        "en_digit": 2,
+        "or_text": "ଦୁଇ",
+        "hi_text": "दो",
+        "mapping_id": "num_02"
+    },
+    {
+        "id": 3,
+        "wav_file": "3.wav",
+        "en_digit": 3,
+        "or_text": "ତିନି",
+        "hi_text": "तीन",
+        "mapping_id": "num_03"
+    },
+    {
+        "id": 4,
+        "wav_file": "4.wav",
+        "en_digit": 4,
+        "or_text": "ଚାରି",
+        "hi_text": "चार",
+        "mapping_id": "num_04"
+    },
+    {
+        "id": 5,
+        "wav_file": "5.wav",
+        "en_digit": 5,
+        "or_text": "ପାଞ୍ଚ",
+        "hi_text": "पाँच",
+        "mapping_id": "num_05"
+    },
+    {
+        "id": 6,
+        "wav_file": "6.wav",
+        "en_digit": 6,
+        "or_text": "ଛଅ",
+        "hi_text": "छह",
+        "mapping_id": "num_06"
+    },
+    {
+        "id": 7,
+        "wav_file": "7.wav",
+        "en_digit": 7,
+        "or_text": "ସାତ",
+        "hi_text": "सात",
+        "mapping_id": "num_07"
+    },
+    {
+        "id": 8,
+        "wav_file": "8.wav",
+        "en_digit": 8,
+        "or_text": "ଆଠ",
+        "hi_text": "आठ",
+        "mapping_id": "num_08"
+    },
+    {
+        "id": 9,
+        "wav_file": "9.wav",
+        "en_digit": 9,
+        "or_text": "ନଅ",
+        "hi_text": "नौ",
+        "mapping_id": "num_09"
+    },
+    {
+        "id": 10,
+        "wav_file": "10.wav",
+        "en_digit": 10,
+        "or_text": "ଦଶ",
+        "hi_text": "दस",
+        "mapping_id": "num_10"
+    },
+    {
+        "id": 11,
+        "wav_file": "11.wav",
+        "en_digit": 11,
+        "or_text": "ଏଗାର",
+        "hi_text": "ग्यारह",
+        "mapping_id": "num_11"
+    },
+    {
+        "id": 12,
+        "wav_file": "12.wav",
+        "en_digit": 12,
+        "or_text": "ବାର",
+        "hi_text": "बारह",
+        "mapping_id": "num_12"
+    },
+    {
+        "id": 13,
+        "wav_file": "13.wav",
+        "en_digit": 13,
+        "or_text": "ତେର",
+        "hi_text": "तेरह",
+        "mapping_id": "num_13"
+    },
+    {
+        "id": 14,
+        "wav_file": "14.wav",
+        "en_digit": 14,
+        "or_text": "ଚଉଦ",
+        "hi_text": "चौदह",
+        "mapping_id": "num_14"
+    },
+    {
+        "id": 15,
+        "wav_file": "15.wav",
+        "en_digit": 15,
+        "or_text": "ପନ୍ଦର",
+        "hi_text": "पंद्रह",
+        "mapping_id": "num_15"
+    },
+    {
+        "id": 16,
+        "wav_file": "16.wav",
+        "en_digit": 16,
+        "or_text": "ଷୋହଳ",
+        "hi_text": "सोलह",
+        "mapping_id": "num_16"
+    },
+    {
+        "id": 17,
+        "wav_file": "17.wav",
+        "en_digit": 17,
+        "or_text": "ସତର",
+        "hi_text": "सत्रह",
+        "mapping_id": "num_17"
+    },
+    {
+        "id": 18,
+        "wav_file": "18.wav",
+        "en_digit": 18,
+        "or_text": "ଅଠର",
+        "hi_text": "अठारह",
+        "mapping_id": "num_18"
+    },
+    {
+        "id": 19,
+        "wav_file": "19.wav",
+        "en_digit": 19,
+        "or_text": "ଉଣେଇଶ",
+        "hi_text": "उन्नीस",
+        "mapping_id": "num_19"
+    },
+    {
+        "id": 20,
+        "wav_file": "20.wav",
+        "en_digit": 20,
+        "or_text": "କୋଡିଏ",
+        "hi_text": "बीस",
+        "mapping_id": "num_20"
+    },
+    {
+        "id": 21,
+        "wav_file": "21.wav",
+        "en_digit": 21,
+        "or_text": "ଏକୋଇଶି",
+        "hi_text": "इक्कीस",
+        "mapping_id": "num_21"
+    },
+    {
+        "id": 22,
+        "wav_file": "22.wav",
+        "en_digit": 22,
+        "or_text": "ବାଇଶି",
+        "hi_text": "बाईस",
+        "mapping_id": "num_22"
+    },
+    {
+        "id": 23,
+        "wav_file": "23.wav",
+        "en_digit": 23,
+        "or_text": "ତେଇଶି",
+        "hi_text": "तेइस",
+        "mapping_id": "num_23"
+    },
+    {
+        "id": 24,
+        "wav_file": "24.wav",
+        "en_digit": 24,
+        "or_text": "ଚବିଶି",
+        "hi_text": "चौबीस",
+        "mapping_id": "num_24"
+    },
+    {
+        "id": 25,
+        "wav_file": "25.wav",
+        "en_digit": 25,
+        "or_text": "ପଚିଶି",
+        "hi_text": "पच्चीस",
+        "mapping_id": "num_25"
+    },
+    {
+        "id": 26,
+        "wav_file": "26.wav",
+        "en_digit": 26,
+        "or_text": "ଛବିଶି",
+        "hi_text": "छब्बीस",
+        "mapping_id": "num_26"
+    },
+    {
+        "id": 27,
+        "wav_file": "27.wav",
+        "en_digit": 27,
+        "or_text": "ସତେଇଶି",
+        "hi_text": "सत्ताइस",
+        "mapping_id": "num_27"
+    },
+    {
+        "id": 28,
+        "wav_file": "28.wav",
+        "en_digit": 28,
+        "or_text": "ଅଠେଇଶି",
+        "hi_text": "अट्ठाइस",
+        "mapping_id": "num_28"
+    },
+    {
+        "id": 29,
+        "wav_file": "29.wav",
+        "en_digit": 29,
+        "or_text": "ଅଣତିରିଶି",
+        "hi_text": "उनतीस",
+        "mapping_id": "num_29"
+    }
+]
